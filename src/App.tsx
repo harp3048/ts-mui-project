@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sample Harp APP
+          This App is deployed from Github to AWS S3
         </a>
       </header>
     </div>
